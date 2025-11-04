@@ -1,2 +1,2 @@
 ## This is Final project of Sat Institut Students .
-Xanda Nawzad [Gift-Shop](https://github.com/XandaNawzad/Gift-Shop_Website) | [View](https://giftos.infy.uk/) </br>
+Xanda Nawzad [Pharmacy Website](https://github.com/XandaNawzad/pharmacy_website_Group2) | [View](https://pharmacy-g2.free.nf/) </br>
